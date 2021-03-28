@@ -1,0 +1,27 @@
+#Titulo1 {
+    font: bold 30px Tahoma;
+    width: 100%;
+    text-align: center;
+}
+
+#Titulo2 {
+    font: bold 30px Tahoma;
+    width: 100%;
+    text-align: center;
+}
+
+#Titulo3 {
+    font: bold 30px Tahoma;
+    width: 100%;
+    text-align: center;
+}
+
+#Inicio {
+    color: #000;
+    font-family: 'Roboto Slab', serif;
+}
+
+#Fin {
+    color: #000;
+    font-family: 'Roboto Slab', serif;
+}
