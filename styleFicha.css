@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body{
+    background-color: #000000da;
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+}
+header{
+    text-align: center;
+    margin-top: 5%;
+}
+section{
+    background-color: teal;
+    float: none;
+    margin-right: 30%;
+    margin-left: 30%;
+    border-style:groove;
+    border-color:springgreen;
+}
+ul{
+    float: right;
+    margin-top: 10%;
+    margin-right: 12%;
+}
+li{
+    display: block;
+    margin-bottom: 10%;
+}
+
+#inicio{
+    float: right;
+}

@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+header{
+    background-color: teal;
+    margin-top: 5%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+    margin-left: 30%;
+    text-align: center;
+}
+body{
+    background-color: #000000da;
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+
+}
+section{
+    border-style:groove;
+}
+.animales{
+    float: left;
+}
+.nombre{
+    display: block;
+    text-align: center;
+}
+
+#inicio{
+    float: right;
+}
